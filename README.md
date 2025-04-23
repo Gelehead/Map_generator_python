@@ -59,6 +59,13 @@ Partial commentary will already be on the code itself but some choice will be he
  - After getting the result and before exporting it, we enhance heights because, without that, the terrain would be REALLY dull, try it yourself
  - export the terrain
 
+### Running
+
+in the Map_generator_python directory, run : 
+`python .\generator.py`
+
+then run your SCAD app with "terrain.scad" normally located in the same Map_generator_python directory
+
 
 ## Complete version
 
